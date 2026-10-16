@@ -1,0 +1,3 @@
+Hello, World!
+This is a practice file.
+We are learning how to work with files in Python.
